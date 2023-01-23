@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "https://mindschoolbd.vercel.app/static/css/main.54464299.css",
+    "main.js": "https://mindschoolbd.vercel.app/static/js/main.14e07f3a.js",
+    "static/css/165.80108873.chunk.css": "https://mindschoolbd.vercel.app/static/css/165.80108873.chunk.css",
+    "static/js/165.ca0eaf2c.chunk.js": "https://mindschoolbd.vercel.app/static/js/165.ca0eaf2c.chunk.js",
+    "static/media/errorimage.png": "https://mindschoolbd.vercel.app/static/media/errorimage.eda745df1c35696d1827.png",
+    "static/media/A10.png": "https://mindschoolbd.vercel.app/static/media/A10.ea8b2cf39255fe58871a.png",
+    "static/media/A11.png": "https://mindschoolbd.vercel.app/static/media/A11.9fb07d9ecc7d966a41b5.png",
+    "static/media/SSLmobile.webp": "https://mindschoolbd.vercel.app/static/media/SSLmobile.eeb639ab0470655c0c93.webp",
+    "static/media/A9.png": "https://mindschoolbd.vercel.app/static/media/A9.57fbc06c2c4299327804.png",
+    "static/media/A12.png": "https://mindschoolbd.vercel.app/static/media/A12.0f0dafc982624143ab50.png",
+    "static/media/A1.png": "https://mindschoolbd.vercel.app/static/media/A1.252d53578207f6a71116.png",
+    "static/media/A2.png": "https://mindschoolbd.vercel.app/static/media/A2.76250964ee09c32b6a86.png",
+    "static/media/SSLweb.webp": "https://mindschoolbd.vercel.app/static/media/SSLweb.3f3fe1ccc389c2f886ac.webp",
+    "static/media/Logo Nill.svg": "https://mindschoolbd.vercel.app/static/media/Logo Nill.77f7fde47e335069130e3a6f6a864e12.svg",
+    "static/media/Ms_logo.svg": "https://mindschoolbd.vercel.app/static/media/Ms_logo.09656601175030489d6674f25b5491b4.svg",
+    "static/media/slick.svg": "https://mindschoolbd.vercel.app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "https://mindschoolbd.vercel.app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "https://mindschoolbd.vercel.app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "https://mindschoolbd.vercel.app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "https://mindschoolbd.vercel.app/index.html",
+    "main.54464299.css.map": "https://mindschoolbd.vercel.app/static/css/main.54464299.css.map",
+    "main.14e07f3a.js.map": "https://mindschoolbd.vercel.app/static/js/main.14e07f3a.js.map",
+    "165.80108873.chunk.css.map": "https://mindschoolbd.vercel.app/static/css/165.80108873.chunk.css.map",
+    "165.ca0eaf2c.chunk.js.map": "https://mindschoolbd.vercel.app/static/js/165.ca0eaf2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54464299.css",
+    "static/js/main.14e07f3a.js"
+  ]
+}
